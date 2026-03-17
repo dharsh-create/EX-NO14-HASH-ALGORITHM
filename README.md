@@ -81,6 +81,7 @@ int main() {
 
 
 ## Output:
+![i](crp.png)
 
 
 ## Result:
